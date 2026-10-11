@@ -1,5 +1,5 @@
 [workspace]
-members = [ "re", "ra", "jinshu", "kpack", "noun" , "maat", "plan"]
+members = [ "re", "ra", "jinshu", "kpack", "noun" , "maaty", "plans"]
 resolver = "3"
 [profile.dev]
 opt-level = 2

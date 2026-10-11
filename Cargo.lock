@@ -206,7 +206,6 @@ dependencies = [
 name = "maaty"
 version = "0.1.0"
 dependencies = [
- "heapless",
  "linked_list_allocator",
  "plans 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
