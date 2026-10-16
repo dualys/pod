@@ -1,1 +1,1 @@
-[![Server](https://github.com/dualys/server/actions/workflows/server.yml/badge.svg)](https://github.com/dualys/server/actions/workflows/server.yml)
+[![Pod](https://github.com/dualys/pod/actions/workflows/pod.yml/badge.svg)](https://github.com/dualys/pod/actions/workflows/pod.yml)
